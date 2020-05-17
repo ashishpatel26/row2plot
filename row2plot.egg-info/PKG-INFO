@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: row2plot
+Version: 1.0
+Summary: This package is use for convert your row to histogram and kdeplot
+Home-page: https://github.com/ashishpatel26/row2plot
+Author: Ashish Patel
+Author-email: ashishpatel.ce.2011@gmail.com
+License: UNKNOWN
+Download-URL: download link you saved
+Description: ===========
+        row2plot
+        ===========
+        
+        row2plot provides the facilty to covert your row data into different graph such as hist, kdeplot. 
+        
+        often looks like this::
+        
+            #!/usr/bin/env python
+        
+            from row2plot import row2hist
+            from row2plot import row2kde
+        
+        
+        
+Keywords: pandas,dataset,matplotlib,seaborn,row2plot
+Platform: UNKNOWN

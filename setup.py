@@ -12,4 +12,6 @@ setup(
     keywords = ['pandas', 'dataset','matplotlib','seaborn','row2plot'],
     classifiers = [],
     long_description=open('README.txt').read(),
+    setup_requires=['wheel'],
+    license='MIT'
 )

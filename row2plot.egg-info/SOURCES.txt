@@ -1,0 +1,7 @@
+README.txt
+setup.py
+row2plot.egg-info/PKG-INFO
+row2plot.egg-info/SOURCES.txt
+row2plot.egg-info/dependency_links.txt
+row2plot.egg-info/requires.txt
+row2plot.egg-info/top_level.txt
