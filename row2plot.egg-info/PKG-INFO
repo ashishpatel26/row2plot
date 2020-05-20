@@ -5,7 +5,7 @@ Summary: This package is use for convert your row to histogram and kdeplot
 Home-page: https://github.com/ashishpatel26/row2plot
 Author: Ashish Patel
 Author-email: ashishpatel.ce.2011@gmail.com
-License: UNKNOWN
+License: MIT
 Download-URL: download link you saved
 Description: ===========
         row2plot
